@@ -1,8 +1,6 @@
 <h1 align="center">Olá, mundo! 🚀</h1>
 <h3 align="center">Impulsionando insights através dos dados 📊</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vfoliveiras&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=f6ae13&style=flat" alt="vfoliveiras" /> </p>
-
 - 🐓 **Publicitário**
 
 - 👨🏽‍💻 **Pós-graduando em Ciência de Dados**
