@@ -23,6 +23,6 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats-ruby-one.vercel.app/api?username=vfoliveiras&show_icons=true&theme=github_dark&hide_border=false&cache_seconds=1800&locale=en" alt="vfoliveiras" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vfoliveiras&show_icons=true&theme=holi&hide_border=false&cache_seconds=1800&locale=en" alt="vfoliveiras" /></p>
 
-<p><img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs?username=vfoliveiras&show_icons=true&theme=github_dark&hide_border=false&locale=en&layout=compact" alt="vfoliveiras" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vfoliveiras&show_icons=true&theme=holi&hide_border=false&locale=en&layout=compact" alt="vfoliveiras" /></p>
