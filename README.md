@@ -5,7 +5,7 @@
 
 - 👨🏽‍💻 **Pós-graduando em Ciência de Dados**
 
-- 📫 [oliveirasvf@gmail.com](oliveirasvf@gmail.com)
+- 📫 [oliveirasvf@gmail.com](mailto:oliveirasvf@gmail.com)
 
 - 📍 **Rio de Janeiro**
 
