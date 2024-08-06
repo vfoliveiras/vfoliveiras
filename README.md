@@ -3,7 +3,7 @@
 
 - 🐓 **Publicitário**
 
-- 👨🏽‍💻 **Pós-graduando em Ciência de Dados**
+- 👨🏽‍💻 **Pós-graduado em Ciência de Dados**
 
 - 📫 [oliveirasvf@gmail.com](mailto:oliveirasvf@gmail.com)
 
